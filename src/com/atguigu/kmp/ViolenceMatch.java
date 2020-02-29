@@ -3,7 +3,7 @@ package com.atguigu.kmp;
  * @author 李宗效
  * @data 2020年2月28日下午4:28:26
  * KMP算法（字符串匹配问题）
- * 暴力匹配算法
+ * 暴力匹配算法(BF)
  */
 public class ViolenceMatch {
 	public static void main(String[] args) {
